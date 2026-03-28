@@ -8,11 +8,11 @@ This project investigates the impact of lactose excipient variability on pharmac
 The dataset used in this project is **synthetically generated** to mirror real-world pharmaceutical manufacturing parameters. It was designed to simulate typical batch-to-batch variability in lactose excipients and its subsequent impact on capsule quality attributes, ensuring a realistic environment for statistical analysis while maintaining data privacy.
 
 ## Key Findings
-*Supplier Variability: One-way ANOVA confirmed no significant difference (p > 0.05) between suppliers regarding particle size, moisture, and bulk density.
+* **Supplier Variability:** One-way ANOVA confirmed no significant difference (p > 0.05) between suppliers regarding particle size, moisture, and bulk density.
 
-*Blend Uniformity: Identified a strong relationship (R² = 0.52) between Blend RSD and Capsule Content Uniformity, supporting its role as a key process parameter.
+* **Blend Uniformity:** Identified a strong relationship (R² = 0.52) between Blend RSD and Capsule Content Uniformity, supporting its role as a key process parameter.
 
-*Dissolution Impact: Found a statistically significant but weak relationship (R² = 0.11) between lactose moisture and dissolution, indicating limited practical impact within the studied range.
+* **Dissolution Impact:** Found a statistically significant but weak relationship (R² = 0.11) between lactose moisture and dissolution, indicating limited practical impact within the studied range.
 
 ## Tech Stack
 * **Language:** Python
